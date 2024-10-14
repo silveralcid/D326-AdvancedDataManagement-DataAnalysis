@@ -26,29 +26,24 @@ Advanced Data Management enables learners to extract and analyze raw data. Skill
 
 ### Competencies
 
-**Classes and Interfaces**
+**Writes Structured Query Language (SQL) Statements**
 
-The graduate designs software solutions with appropriate classes, objects, methods, and interfaces to achieve specific goals.
+The learner writes complex Structured Query Language (SQL) statements for data analysis and manipulation
 
-**Object-Oriented Principles**
+**Configures Automated Tasks**
 
-The graduate implements object-oriented design principles (e.g., inheritance, encapsulation, and abstraction) in developing applications for ensuring the application's scalability.
+The learner configures data extraction, transformation, and loading tasks for automated data integration
 
-**Application Development**
+### Requirements
 
-The graduate produces applications using high-level programming language constructs to meet business requirements.
-
-**Exception Handling**
-The graduate incorporates simple exception handling in application development for improving user experience and application stability.
-
-**User Interface Development**
-The graduate develops user interfaces to meet project requirements.
-
-### Scenario
-
-You are working for a small manufacturing organization that has outgrown its current inventory system. They have been using a spreadsheet program to manually enter inventory additions, deletions, and other data from a paper-based system but would now like you to develop a more sophisticated inventory program.
-
-They have provided you with a mock-up of the user interface to use in the design and development of the system (see the attached "GUI Mock-Up") and a class diagram to assist you in your work (see the attached "UML Class Diagram"). The organization also has specific business requirements that must be included as part of the application. A system analyst from your company created the solution statements outlined in the requirements section based on the manufacturing organization's business requirements. You will use these solution statements to develop your application.
+* Summarize one real-world written business report that can be created from the DVD Dataset from the “Labs on Demand Assessment
+* Provide original code for function(s) in text format that perform the transformation(s)
+* Provide original SQL code in a text format that creates the detailed and summary tables to hold your report table sections
+* Provide an original SQL query in a text format that will extract the raw data needed for the detailed section of your report from the source database
+* Provide original SQL code in a text format that creates a trigger on the detailed table of the report that will continually update the summary table as data is added to the detailed table
+* Provide an original stored procedure in a text format that can be used to refresh the data in both the detailed table and summary table. The procedure should clear the contents of the detailed table and summary table and perform the raw data extraction from part D
+* Identify a relevant job scheduling tool that can be used to automate the stored procedure
+* Provide a Panopto video recording that includes the presenter and a vocalized demonstration of the functionality of the code used for the analysis
 
 
 

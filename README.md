@@ -1,9 +1,9 @@
 <a id="readme-top"></a>
 
-<h3 align="center">Software I - C#</h3>
+<h3 align="center">Advanced Data Management</h3>
 
   <p align="center">
-    Course C968 - Western Governer's University
+    Course D326 - Western Governer's University
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
@@ -17,12 +17,12 @@
 
 ### Built With
 
-* .NET
+* PostgreSQL
 
 
 ## Course Information
 
-Software I - C# builds object-oriented programming expertise and introduces powerful new tools for C# application development. You will learn about and put into action: class design, exception handling, and other object-oriented principles and constructs to develop software that meets business requirements. This course requires foundational knowledge of object-oriented programming.
+Advanced Data Management enables learners to extract and analyze raw data. Skillful data management allows organizations to discover and explore data in ways that uncover trends, issues, and their root causes. In turn, businesses are better equipped to capitalize on opportunities and more accurately plan for the future. As organizations continue to extract larger and more detailed volumes of data, the need is rapidly growing for IT professionals who possess data management skills. The skills gained in this course include performing advanced relational data modeling as well as designing data marts, lakes, and warehouses. This course will empower learners with the skills to build business logic at the database layer to employ more stability and higher data-processing speeds. Learners will gain the ability to automate common tasks to summarize and integrate data as they prepare it for analysis. Data Management - Foundations is a prerequisite for this course.
 
 ### Competencies
 

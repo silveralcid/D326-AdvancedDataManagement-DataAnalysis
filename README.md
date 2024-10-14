@@ -41,7 +41,7 @@ The learner configures data extraction, transformation, and loading tasks for au
 * Provide original SQL code in a text format that creates the detailed and summary tables to hold your report table sections
 * Provide an original SQL query in a text format that will extract the raw data needed for the detailed section of your report from the source database
 * Provide original SQL code in a text format that creates a trigger on the detailed table of the report that will continually update the summary table as data is added to the detailed table
-* Provide an original stored procedure in a text format that can be used to refresh the data in both the detailed table and summary table. The procedure should clear the contents of the detailed table and summary table and perform the raw data extraction from part D
+* Provide an original stored procedure in a text format that can be used to refresh the data in both the detailed table and summary table.
 * Identify a relevant job scheduling tool that can be used to automate the stored procedure
 * Provide a Panopto video recording that includes the presenter and a vocalized demonstration of the functionality of the code used for the analysis
 
